@@ -9,6 +9,7 @@ public class TestGitHub {
 		
 		System.out.println("hello github 服务器03");
 		System.out.println("11111111111");
+		System.out.println("2222");
 	}
 
 }
